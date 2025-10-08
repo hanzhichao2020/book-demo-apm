@@ -1,0 +1,55 @@
+{
+"typical_sse_stocks": [
+{
+"code": "601318",
+"name_en": "Ping An Insurance",
+"name_cn": "中国平安"
+},
+{
+"code": "600519",
+"name_en": "Kweichow Moutai",
+"name_cn": "贵州茅台"
+},
+{
+"code": "601398",
+"name_en": "Industrial and Commercial Bank of China (ICBC)",
+"name_cn": "工商银行"
+},
+{
+"code": "601857",
+"name_en": "PetroChina",
+"name_cn": "中国石油"
+},
+{
+"code": "600036",
+"name_en": "China Merchants Bank",
+"name_cn": "招商银行"
+},
+{
+"code": "600050",
+"name_en": "China Unicom",
+"name_cn": "中国联通"
+},
+{
+"code": "601088",
+"name_en": "China Shenhua Energy",
+"name_cn": "中国神华"
+},
+{
+"code": "600887",
+"name_en": "Yili Industrial Group",
+"name_cn": "伊利股份"
+},
+{
+"code": "600030",
+"name_en": "CITIC Securities",
+"name_cn": "中信证券"
+},
+{
+"code": "600048",
+"name_en": "Poly Developments and Holdings",
+"name_cn": "保利发展"
+}
+],
+"exchange_note": "Codes starting with '60' are Shanghai Stock Exchange (SSE) A-shares."
+}

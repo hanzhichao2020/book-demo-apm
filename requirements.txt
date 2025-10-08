@@ -1,0 +1,21 @@
+# tool
+tqdm
+rich
+joblib
+ipykernel
+jupyterlab
+ipywidgets
+# api
+pandas-datareader
+yfinance
+akshare
+# viz
+seaborn
+# sci
+numpy
+pandas
+statsmodels
+# fin
+QuantLib
+
+
